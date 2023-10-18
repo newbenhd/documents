@@ -1,5 +1,5 @@
-id;command;description;count;process
-0;docker ps;list containers;0;docker
-1;:Telescope find_files;find files in current directory;0;telescope.vim
-2;:Git add;Add files to git stage;0;fugitive.vim
-3;:Git commit;Commit files to git stage;0;fugitive.vim
+id,command,description,count,process
+0,docker ps,list containers,0,docker
+1,:Telescope find_files,find files in current directory,0,telescope.vim
+2,:Git add,Add files to git stage,0,fugitive.vim
+3,:Git commit,Commit files to git stage,0,fugitive.vim
